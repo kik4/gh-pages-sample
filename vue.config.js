@@ -1,4 +1,4 @@
 module.exports = {
   outputDir: "docs",
-  assetsDir: "gh-pages-sample/"
+  baseUrl: "/gh-pages-sample/"
 };
