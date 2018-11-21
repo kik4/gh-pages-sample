@@ -4,8 +4,10 @@
 
 https://kik4.github.io/gh-pages-sample/
 
-何がしたいかというと：npmからじゃなくGitHubにある自分のパッケージをinstallして使えることを試した。
-`"vue-form-wizard": "kik4/vue-form-wizard#build"`
+- 何がしたいかというと：
+  - `vue create`からGitHub Pagesを作ってみたかった
+  - npmからじゃなくGitHubにある自分のパッケージをinstallして使えることを試した。
+    - `"vue-form-wizard": "kik4/vue-form-wizard#build"`
 
 ## Project setup
 ```
