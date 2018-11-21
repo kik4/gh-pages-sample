@@ -14,10 +14,17 @@
 
 <script>
 import Vue from "vue";
-import VueFormWizard from "vue-form-wizard/dist/vue-form-wizard.js";
+import {
+  FormWizard,
+  TabContent
+} from "vue-form-wizard/dist/vue-form-wizard.js";
 import "vue-form-wizard/dist/vue-form-wizard.min.css";
-Vue.use(VueFormWizard);
+
 export default {
+  components: {
+    FormWizard,
+    TabContent
+  },
   data: function() {
     return {
       formInline: {
