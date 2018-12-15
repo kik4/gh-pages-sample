@@ -7637,9 +7637,9 @@ vue-class-component@^6.0.0, vue-class-component@^6.2.0:
   version "6.3.2"
   resolved "https://registry.yarnpkg.com/vue-class-component/-/vue-class-component-6.3.2.tgz#e6037e84d1df2af3bde4f455e50ca1b9eec02be6"
 
-vue-form-wizard@kik4/vue-form-wizard#build:
+vue-form-wizard@BinarCode/vue-form-wizard#master:
   version "0.8.4"
-  resolved "https://codeload.github.com/kik4/vue-form-wizard/tar.gz/87d97093793f5d306aa8e7362b511621350b0456"
+  resolved "https://codeload.github.com/BinarCode/vue-form-wizard/tar.gz/ff92af9fc2e877e41a381cf29e6bb14c8c605184"
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.1"

@@ -11,7 +11,7 @@
   "dependencies": {
     "vue": "^2.5.17",
     "vue-class-component": "^6.0.0",
-    "vue-form-wizard": "kik4/vue-form-wizard#build",
+    "vue-form-wizard": "BinarCode/vue-form-wizard#master",
     "vue-property-decorator": "^7.0.0",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
